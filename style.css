@@ -1,0 +1,44 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a.projects {
+  text-decoration: none;
+}
+
+a.social {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 60px;
+  text-decoration: none;
+  margin-right: 4px;
+}
+
+.lingkaran {
+  display: flex;
+  align-items: center;
+  border-radius: 50%;
+  width: 150px;
+  margin: auto;
+  height: 150px;
+  color: #fff;
+  background-color: #dc3545;
+}
